@@ -3,3 +3,4 @@
 * [Missing Semester](https://missing.csail.mit.edu/)
 * [CS101](https://web.stanford.edu/class/cs101/index.html)
 * [Analytics](https://analytics.google.com/analytics/academy/)
+* [C# and MySql basics](http://zetcode.com/csharp/mysql/)
